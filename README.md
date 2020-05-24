@@ -16,18 +16,6 @@ We are UNIL_GOOGLE on Kaggle. You will see our ranking there
 * __keyword__ - a particular keyword from the tweet (may be blank)
 * __target__ - in train.csv only, this denotes whether a tweet is about a real disaster (1) or not (0)
 
-
-## Team Members
-* __Florian Emery__
-* __Ibrahim Ounon__
-* __Pau Gallardo Campos__
-* __Sarah Büchner__
-
-
-## Link to Video
-
-The video for our project is available on [YouTube](https://youtu.be/tdJWsxcjBZs). 
-
 ## Project Structure
 
 To make the project work smoothly, it is advised to use an online platform such as Google Colaboratory
@@ -44,5 +32,19 @@ This folder contains **1 notebook**:
 *test.csv - the test set
 *sample_submission.csv - a sample submission file in the correct format
 *disaster_words - contains a list of disaster-related words
+
+
+
+
+## Team Members
+* __Florian Emery__
+* __Ibrahim Ounon__
+* __Pau Gallardo Campos__
+* __Sarah Büchner__
+
+
+## Link to Video
+
+The video for our project is available on [YouTube](https://youtu.be/tdJWsxcjBZs). 
 
 
