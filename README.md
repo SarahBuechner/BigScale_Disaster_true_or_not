@@ -18,10 +18,10 @@ We are UNIL_GOOGLE on Kaggle. You will see our ranking there
 
 
 ## Team Members
-*Florian Emery
-*Ibrahim Ounon
-*Pau Gallardo Campos
-*Sarah Büchner
+* _Florian Emery
+* _Ibrahim Ounon
+* _Pau Gallardo Campos
+* _Sarah Büchner
 
 
 ## Link to Video
