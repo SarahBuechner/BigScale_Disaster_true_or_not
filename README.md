@@ -25,9 +25,9 @@ This folder contains **1 notebook**:
 
 ### /data
 
-/*train.csv - the training set 
-/*test.csv - the test set
-/*sample_submission.csv - a sample submission file in the correct format
-/*disaster_words - contains a list of disaster-related words
+\*train.csv - the training set 
+\*test.csv - the test set
+\*sample_submission.csv - a sample submission file in the correct format
+\*disaster_words - contains a list of disaster-related words
 
 
