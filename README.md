@@ -6,7 +6,7 @@ _A project by Team Google (Big Scale analytics, HEC Lausanne, Summer 2019)_
 Real or Not? NLP with Disaster Tweets: In this project we are challenged to build a Machine Learning model that can predict which tweets are about a real disaster and which are not. The project topic is based around a Kaggle competition. You can find the link to the competition [here](https://www.kaggle.com/c/nlp-getting-started/overview). You will find more information about the project and the dataset in the competition page.
 
 In this project, we always compare the results of our predictions with those of other teams and also with those of other Kaggle users). 
-We are UNIL_GOOGLE on Kaggle. You will see our ranking there
+We are UNIL_GOOGLE on Kaggle. You will see our ranking there.
 
 ## DATABASE Kaggle
 
