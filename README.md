@@ -33,8 +33,20 @@ This folder contains **1 notebook**:
 *sample_submission.csv - a sample submission file in the correct format
 *disaster_words - contains a list of disaster-related words
 
+### Dependencies
+For our project it is necessary to install the following libraries: numpy, pandas, seaborn, nltk, matplotlib, io, sklearn, yellowbrick and gensim. You can run the following code before executing the notebook: 
 
-
+```python
+!pip install numpy
+!pip install pandas
+!pip install seaborn
+!pip install nltk
+!pip install matplotlib
+!pip install io
+!pip install sklearn
+!pip install yellowbrick
+!pip install gensim
+```
 
 ## Team Members
 * __Florian Emery__
