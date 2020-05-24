@@ -28,10 +28,10 @@ This folder contains **1 notebook**:
 
 ### /data
 
-*train.csv - the training set 
-*test.csv - the test set
-*sample_submission.csv - a sample submission file in the correct format
-*disaster_words - contains a list of disaster-related words
+*train.csv - the training set <br>
+*test.csv - the test set <br>
+*sample_submission.csv - a sample submission file in the correct format <br>
+*disaster_words - contains a list of disaster-related words <br>
 
 ### Dependencies
 For our project it is necessary to install the following libraries: numpy, pandas, seaborn, nltk, matplotlib, io, sklearn, yellowbrick and gensim. You can run the following code before executing the notebook: 
